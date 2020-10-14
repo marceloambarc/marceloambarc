@@ -37,7 +37,7 @@ The system report the following evolution of binary language.:
 
 ### Arcturo-Series
 
-Visit the Website, HTML5 and CSS3 development, Javascript and Bootstrap development;
+Visit the Website, HTML5, CSS3, Javascript and Bootstrap development;
 take a look in the proposals.
 
 | Name | Proposal |
