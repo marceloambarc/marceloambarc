@@ -30,7 +30,7 @@ The system report the following evolution of binary language.:
 * [NodeJS] - evented I/O for the backend
 * [HTML5] - Everybody likes HyperText.
 * [CSS3 Bootstrap] - great UI boilerplate for modern web apps
-* [Python] - Have you Ever see the FlaskAlchemy? [@tjholowaychuk]
+* [Python] - Have you Ever see the FlaskAlchemy?
 * [Gulp] - the streaming build system
 * [jQuery] - Holy Yeah!
 * [Scriptures] - You think that I.A can't hurt you? :seedling:
