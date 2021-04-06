@@ -27,13 +27,15 @@ You can also:
 The system report the following evolution of binary language.:
 
 * [ReactJS] - HTML enhanced for web apps!
+* [React-Native] - React's framework along with native platform capabilities.
 * [NodeJS] - evented I/O for the backend
 * [HTML5] - Everybody likes HyperText.
 * [CSS3 Bootstrap] - great UI boilerplate for modern web apps
+* [JavaScript ES6] - await here asynchronously.
 * [Python] - Have you Ever see the FlaskAlchemy?
 * [Gulp] - the streaming build system
 * [jQuery] - Holy Yeah!
-* [Scriptures] - You think that I.A can't hurt you? :seedling:
+* [Scriptures] - You think that I.A is the truth? :seedling:
 
 ### Arcturo-Series
 
