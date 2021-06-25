@@ -1,7 +1,6 @@
 # WELCOME to AMBARC HALL <img alt="GitHub followers" src="https://img.shields.io/github/followers/marceloambarc?label=Follow&style=social">
 
-[![Build Status](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceloambarc/)[![Build Status](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://support.discord.com/hc/en-us/profiles/423824250194)[![Build Status]
-
+[![Build Status](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceloambarc/)[![Build Status](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://support.discord.com/hc/en-us/profiles/423824250194)
 
 This profile is intended to report on the progress of the dev community
   - Connect :fax: marcelo.ambarc@gmail.com
