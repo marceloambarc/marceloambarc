@@ -1,29 +1,8 @@
-# WELCOME to AMBARC HALL <img alt="GitHub followers" src="https://img.shields.io/github/followers/marceloambarc?label=Follow&style=social">
+<h1 align="center">Ambarc Hall <img alt="GitHub followers" src="https://img.shields.io/github/followers/marceloambarc?label=Follow&style=social"></h1>
+<h3 align="center">Brazil - Rs - Porto Alegre</h3>
 
-[![Build Status](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceloambarc/)[![Build Status](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://support.discord.com/hc/en-us/profiles/423824250194)
+<h3 align="left">Connect with me: </h3>
 
-This profile is intended to report on the progress of the dev community
-  - Connect :fax: marcelo.ambarc@gmail.com
-  - Dev <img alt="Yarn" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" width="50"><br>
-  ![Build Status](https://img.shields.io/badge/windows-asus%20vivobook%2014-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
+[![Build Status](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marceloambarc/) [![Build Status](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marceloambarc)
 
-### Technology Learned:
-
-The system report the following evolution of binary language.:
-
-* [C#] - LEXICALLY scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.!
-* [ASPx] - Take C# to FRONT-END.
-* [ReactJS] - HTML enhanced for web apps!
-* [React-Native] - React's framework along with native platform capabilities.
-* [NodeJS] - evented I/O for the backend
-* [HTML5] - Everybody likes HyperText.
-* [CSS3 Bootstrap] - great UI boilerplate for modern web apps
-* [JavaScript ES6] - await here asynchronously.
-* [Python] - Have you Ever see the FlaskAlchemy?
-* [Gulp] - the streaming build system
-* [jQuery] - Holy Yeah!
-* [Scriptures] - You think that I.A is the truth? :seedling:
-
-
-
-***Thank you all!***</p>
+![marceloambarc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloambarc&theme=dark&show_icons=true&hide_border=false&layout=compact)![marceloambarc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marceloambarc&theme=dark&hide_border=false)
